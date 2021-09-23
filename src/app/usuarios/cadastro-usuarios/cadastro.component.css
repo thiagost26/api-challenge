@@ -1,0 +1,23 @@
+.fullWidth {
+  width: 100%;
+}
+
+.btn-cancelar {
+  color: orangered;
+}
+
+.btn-salvar {
+  color: green;
+}
+
+.row {
+  text-align: center;
+  width: 50%;
+  margin-left: 500px;
+}
+
+.btns {
+  text-align: initial;
+}
+
+

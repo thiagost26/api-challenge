@@ -1,0 +1,19 @@
+<mat-toolbar >
+  <mat-toolbar-row>
+    <span>Challenge</span>
+    <span class="example-spacer"></span>
+      <a [routerLink]="['/']" routerLinkActive="active">
+        <button mat-icon-button class="example-icon">
+          <mat-icon>menu</mat-icon>
+        </button>
+      </a>
+
+    <div class="row">
+      <a [routerLink]="['/usuarios']" routerLinkActive="active">
+        <button mat-raised-button class="btn-usuarios">Usuários</button>
+      </a>
+    </div>
+  </mat-toolbar-row>
+</mat-toolbar>
+
+<router-outlet></router-outlet>

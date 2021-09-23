@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+}
+
+.btn-atualizar {
+  color: orange;
+}
+
+.btn-adicionar {
+  color: green;
+}
+
+.icon-delete {
+  color: red;
+}
+
+.icon-edit {
+  color: blue;
+}
+
+.icon-settings {
+  color: blue;
+}
+
+.icon-detail {
+  color: orange;
+}
+

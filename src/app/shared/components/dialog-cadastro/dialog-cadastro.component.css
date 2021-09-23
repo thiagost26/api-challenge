@@ -1,0 +1,11 @@
+.fullWidth {
+  width: 100%;
+}
+
+.btn-cancelar {
+  color: orangered;
+}
+
+.btn-salvar {
+  color: green;
+}
